@@ -42,7 +42,7 @@ Links:
 ---
 
 ### Cartella
-
+ß
 The all in one bookmark app for you developers out there.
 
 <p align="center">
@@ -52,3 +52,11 @@ The all in one bookmark app for you developers out there.
 Links: 
 - [Github](https://github.com/adisreyaj/cartella-web)
 ---
+
+### Angular Remix Icon Library
+
+Library which enabled you to easily use 2000+ icons from remixicon.com in your Angular projects
+
+Links:
+ - [Github](https://github.com/adisreyaj/angular-remix-icon)
+ - [NPM](https://www.npmjs.com/package/angular-remix-icon)
