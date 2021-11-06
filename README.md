@@ -60,3 +60,11 @@ Library which enabled you to easily use 2000+ icons from remixicon.com in your A
 Links:
  - [Github](https://github.com/adisreyaj/angular-remix-icon)
  - [NPM](https://www.npmjs.com/package/angular-remix-icon)
+
+### Ng Shimmer
+
+Skeleton loading library. Simple and easy to use Shimmer Animation placeholder for your Angular applications.
+
+Links:
+ - [Github](https://github.com/adisreyaj/angular-shimmer-effect)
+ - [NPM](https://www.npmjs.com/package/@sreyaj/ng-shimmer)
