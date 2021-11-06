@@ -61,6 +61,8 @@ Links:
  - [Github](https://github.com/adisreyaj/angular-remix-icon)
  - [NPM](https://www.npmjs.com/package/angular-remix-icon)
 
+ ---
+
 ### Ng Shimmer
 
 Skeleton loading library. Simple and easy to use Shimmer Animation placeholder for your Angular applications.
